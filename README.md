@@ -38,19 +38,6 @@ e historial de servicio.
 
 ---
 
-## Estructura del repositorio
-
-```
-predicción-clientes-internet-hogar/
-│
-├── Python_Avanzado_Grupo_1_Entregable_Final_V7.ipynb
-├── dataset_unificado_ml.csv
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Metodología
 
 ### 1. EDA (Análisis Exploratorio)
@@ -64,7 +51,7 @@ regla que construye `elegible_final`**, produciendo métricas artificialmente pe
 Se identificó la regla exacta y se corrigió entrenando solo con las **7 variables
 crudas** disponibles en producción.
 
-### 3. Features seleccionadas (sin leakage)
+### 3. Features seleccionadas
 
 | Variable | Tipo |
 |---|---|
@@ -129,18 +116,6 @@ El umbral de clasificación fue **optimizado individualmente** para cada modelo.
 - Matrices de confusión: umbral 0.5 vs umbral óptimo
 - Validación cruzada: F2 por fold y detección de sobreajuste
 - Análisis de errores: perfil de FN, FP y TP
-
----
-
-## Cómo ejecutar
-
-1. Abrir el notebook en [Google Colab](https://colab.research.google.com/)
-2. Subir `dataset_unificado_ml.csv` cuando se solicite
-3. `Runtime → Run all`
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
