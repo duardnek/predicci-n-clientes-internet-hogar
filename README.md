@@ -118,6 +118,18 @@ El umbral de clasificación fue **optimizado individualmente** para cada modelo.
 
 ---
 
+## Autor
+
+- Eduardo Castro Quicaña
+
+Estudiante de Ingeniería de Sistemas orientado a **Data Analyst**.
+
+LinkedIn  
+https://www.linkedin.com/in/castroeduard
+
+GitHub  
+https://github.com/duardnek
+
 ## Equipo
 
 - Castro Quicaña, Eduardo
