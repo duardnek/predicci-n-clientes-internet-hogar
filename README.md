@@ -8,7 +8,6 @@ de campañas de marketing.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-latest-189fdd?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-latest-2980b9?style=flat)
-![Colab](https://img.shields.io/badge/Google%20Colab-notebook-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
